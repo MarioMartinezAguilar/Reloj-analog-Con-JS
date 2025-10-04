@@ -131,7 +131,7 @@ body{
         .seconds{
         --rotate: 0;
         position:absolute;
-        bottom: 46%;
+        bottom: 50%;
         transform: rotate(calc(var(--rotate) * 1deg));
         transform-origin: bottom;
     }
